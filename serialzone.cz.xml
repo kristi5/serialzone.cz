@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><scraper framework="1,1" date="2011-01-16" name="SerialZone.cz" content="tvshows" language="cs">
+<?xml version="1.0" encoding="utf-8"?><scraper framework="1,1" date="2011-01-16">
 	<CreateSearchUrl dest="3">
 		<RegExp input="$$1" output="&lt;url&gt;http://www.serialzone.cz/hledani/\1/&lt;/url&gt;" dest="3">
 			<expression encode="1" />
